@@ -59,7 +59,7 @@ term.clear()
 sleep(0.1)
 term.setCursorPos(0,2)
 print(" INFO OS VER: 1.1.0")
-print(" copyright if under gnu")
+print(" copyright is under gnu")
 end
 end
 
